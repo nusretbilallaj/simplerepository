@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.Repository", "RepositorySample\Repository.Repository.csproj", "{E307A280-C49E-407D-BBA7-0A9BF539E63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.Entity", "Repository.Entity\Repository.Entity.csproj", "{4593BDA5-7308-49EC-9560-DA677F432C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.WF", "Repository.WF\Repository.WF.csproj", "{C5245F95-E72C-4A56-AD44-84590C710F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E307A280-C49E-407D-BBA7-0A9BF539E63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E307A280-C49E-407D-BBA7-0A9BF539E63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E307A280-C49E-407D-BBA7-0A9BF539E63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E307A280-C49E-407D-BBA7-0A9BF539E63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4593BDA5-7308-49EC-9560-DA677F432C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4593BDA5-7308-49EC-9560-DA677F432C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4593BDA5-7308-49EC-9560-DA677F432C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4593BDA5-7308-49EC-9560-DA677F432C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5245F95-E72C-4A56-AD44-84590C710F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5245F95-E72C-4A56-AD44-84590C710F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5245F95-E72C-4A56-AD44-84590C710F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5245F95-E72C-4A56-AD44-84590C710F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
